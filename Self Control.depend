@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1480448843 source:c:\users\pc\desktop\class12_project\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<ctime>
+	<conio.h>
+	<string>
+	<windows.h>
+	<queue>
+	<ctime>
+	<time.h>
+	<sstream>
+	<fstream>
+	<iterator>
+	<string>
+	<vector>
+
